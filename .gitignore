@@ -1,17 +1,5 @@
-# Byte-compiled / cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Editor / OS
-.vscode/
-.idea/
 .DS_Store
-Thumbs.db
-
-# Temporary / build
-dist/
-build/
-*.egg-info
-*.log
