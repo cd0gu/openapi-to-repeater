@@ -19,7 +19,7 @@ A simple Burp Suite extension (Jython 2.7) that imports an OpenAPI spec and gene
 3. In the new tab, click **Load OpenAPI JSON**.
 
 ## Example
-See [`examples/openapi.json`](examples/openapi.json).
+See [`examples/openapi.json`](examples/openapi.json)
 
 ## License
 MIT
